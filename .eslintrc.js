@@ -34,5 +34,6 @@ module.exports = {
     'import/prefer-default-export':'off',
     'no-console': ["error",  { allow: ["tron"]}],
     'react/state-in-constructor': 'off',
+    'no-param-reassign': 'off',
   },
 };
